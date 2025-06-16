@@ -26,11 +26,18 @@
             <version>3.2.0</version>
         </dependency>
         
-        <!--gson-->
+        <!--gson - serialize/deserialize-->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.10.1</version>
+        </dependency>
+        
+        <!--jbcrypt - cryptography-->
+        <dependency>
+            <groupId>org.mindrot</groupId>
+            <artifactId>jbcrypt</artifactId>
+            <version>0.4</version>
         </dependency>
         
     </dependencies>
