@@ -1,1 +1,16 @@
+com\mycompany\pengaduan_app\gui\AdminDashboard$1.class
+com\mycompany\pengaduan_app\gui\RegisterFrame.class
+com\mycompany\pengaduan_app\model\User.class
+com\mycompany\pengaduan_app\util\CryptoUtil.class
+com\mycompany\pengaduan_app\util\ThreadUtil.class
+com\mycompany\pengaduan_app\util\LocalDateTimeAdapter.class
+com\mycompany\pengaduan_app\service\DatabaseService.class
+com\mycompany\pengaduan_app\gui\PengaduanForm.class
+com\mycompany\pengaduan_app\model\Pengaduan.class
+com\mycompany\pengaduan_app\gui\UserDashboard.class
+com\mycompany\pengaduan_app\service\AuthService.class
+com\mycompany\pengaduan_app\gui\AdminDashboard.class
+com\mycompany\pengaduan_app\gui\LoginFrame.class
+com\mycompany\pengaduan_app\service\PengaduanService.class
+com\mycompany\pengaduan_app\gui\UserDashboard$1.class
 com\mycompany\pengaduan_app\Main.class
