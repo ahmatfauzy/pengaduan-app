@@ -35,7 +35,6 @@ public class Pengaduan implements Serializable {
         this.kategori = kategori;
     }
     
-    // Getters and Setters
     public String getId() { return id; }
     public void setId(String id) { this.id = id; }
     
