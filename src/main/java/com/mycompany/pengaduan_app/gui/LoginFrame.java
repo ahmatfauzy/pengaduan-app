@@ -4,7 +4,6 @@
  */
 package com.mycompany.pengaduan_app.gui;
 
-import com.mycompany.pengaduan_app.model.User;
 import com.mycompany.pengaduan_app.service.AuthService;
 import com.mycompany.pengaduan_app.util.ThreadUtil;
 
@@ -30,8 +29,6 @@ public class LoginFrame extends javax.swing.JFrame {
         messages = ResourceBundle.getBundle("messages", Locale.getDefault());
         initComponents();
         applyLocalization();
-        
-        
     }
 
     /**

@@ -8,6 +8,7 @@ import com.mycompany.pengaduan_app.gui.LoginFrame;
 import java.util.Locale;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
+import com.mycompany.pengaduan_app.NewClass;
 
 /**
  *
@@ -22,6 +23,7 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        NewClass.main(args);
         
         SwingUtilities.invokeLater(() -> {
             new LoginFrame().setVisible(true);
