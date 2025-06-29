@@ -26,4 +26,3 @@ com\mycompany\pengaduan_app\service\AuthService.class
 com\mycompany\pengaduan_app\gui\RegisterFrame$3.class
 com\mycompany\pengaduan_app\gui\LoginFrame.class
 com\mycompany\pengaduan_app\service\PengaduanService.class
-com\mycompany\pengaduan_app\NewClass.class
