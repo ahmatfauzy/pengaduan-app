@@ -5,6 +5,7 @@
 package com.mycompany.pengaduan_app;
 
 import com.mycompany.pengaduan_app.gui.LoginFrame;
+import java.util.Locale;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
@@ -14,6 +15,8 @@ import javax.swing.UIManager;
  */
 public class Main {
     public static void main(String[] args) {
+        Locale.setDefault(new Locale("id", "ID"));
+        
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (Exception e) {

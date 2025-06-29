@@ -30,6 +30,8 @@ public class LoginFrame extends javax.swing.JFrame {
         messages = ResourceBundle.getBundle("messages", Locale.getDefault());
         initComponents();
         applyLocalization();
+        
+        
     }
 
     /**
